@@ -1,24 +1,24 @@
 {
     "basics": {
-      "name": "Albert Einstein",
-      "label": "Scientist",
+      "name": "Joshua Kosakowsky",
+      "label": "Business Analyst",
       "image": "",
-      "email": "albert@einstein.de",
-      "phone": "(912) 123-4567",
-      "url": "https://alshedivat.github.io/al-folio/",
-      "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+      "email": "JoshuaKosakowsky@gmail.com",
+      "phone": "(412) 638-6914",
+      "url": "https://JoshuaKosakowsky.github.io/",
+      "summary": "Business Analyst with a track record of driving growth and innovation through strategic analysis, leadership, and a deep understanding of both business and technology landscapes.",
       "location": {
-        "address": "2712 Broadway St",
-        "postalCode": "CA 94115",
-        "city": "San Francisco",
+        "address": "",
+        "postalCode": "CO 80020",
+        "city": "Broomfield",
         "countryCode": "US",
-        "region": "California"
+        "region": "Colorado"
       },
       "profiles": [
         {
-          "network": "Twitter",
-          "username": "AlbertEinstein",
-          "url": "https://twitter.com/AlbertEinstein"
+          "network": "LinkedIn",
+          "username": "Joshua Kosakowsky",
+          "url": "https://www.linkedin.com/in/joshua-kosakowsky/"
         }
       ]
     },
