@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors
+      institution: University of Colorado, Boulder
+      year: 2023
       description:
-        - Description 1.
+        - Business Analytics & Information Management.
         - Description 2.
         - title: Description 3.
           contents:
