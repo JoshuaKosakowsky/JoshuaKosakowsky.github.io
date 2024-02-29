@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>r</p>
+    <p></p>
     <p></p>
     <p>Broomfield, CO 80020</p>
 
