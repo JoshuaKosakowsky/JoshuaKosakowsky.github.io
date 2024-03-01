@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Consumer Preferences and Sentiment Analysis
+description: Using Python to analyse customer reviews from Amazon products.
 img: assets/img/12.jpg
 importance: 1
 category: work
